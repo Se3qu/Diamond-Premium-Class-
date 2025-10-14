@@ -1,0 +1,12 @@
+# Environment and secrets 
+*.env 
+backend/.env 
+frontend/.env 
+venv/ 
+node_modules/ 
+__pycache__/ 
+*.pyc 
+dist/ 
+build/ 
+.vscode/ 
+.idea/ 
