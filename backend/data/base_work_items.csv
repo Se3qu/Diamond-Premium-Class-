@@ -1,0 +1,33 @@
+﻿code,name_ru,name_en,name_tr,unit,category
+MOB,Мобилизация,Mobilization,Mobilizasyon,шт,General
+EARTH,Земляные работы,Earthworks,Toprak işleri,м³,Earthworks
+FOUND_LEVEL,Выравнивание под фундамент,Base leveling under foundation,Temel altı tesviye,м²,Earthworks
+LEAN_CONC,Подбетонка,Lean concrete (blinding),Grobeton (blinding),м³,Structure
+FOUND_CONC,Фундамент бетон + битум и плита на грунтовом основании,Foundation concrete + bitumen and slab-on-grade,Temel betonu + bitüm ve zemin betonu (slab-on-grade),м³,Structure
+RC_STRUCT,"ЖБ конструкции (стены, колонны и плиты перекрытия)","Reinforced concrete structures (walls, columns, slabs)","Betonarme yapılar (duvar, kolon, döşeme)",м³,Structure
+BASE_MEMB,Мембранная изоляция стен подвала,Basement wall membrane waterproofing,Bodrum duvarı membran yalıtımı,м²,Waterproofing
+BACKFILL,Обратная засыпка,Backfilling,Geri dolgu,м³,Earthworks
+ROOF_INS_SCREED,Изоляция крыши и стяжка,Roof insulation and screed,Çatı yalıtımı ve şap,м²,Roof
+GARAGE_TOP_MEMB,Мембранная изоляция над гаражами и стяжка,Over-garage membrane waterproofing and screed,Garaj üstü membran yalıtımı ve şap,м²,Roof
+ROOF_SHAFT_WALLS,Стены шахты на крыше,Roof shaft walls,Çatı şaft duvarları,м²,Masonry
+AAC_WALLS,Внешние и внутренние стены из газоблоков,External and internal AAC (gas block) walls,Dış ve iç gazbeton duvarlar,м²,Masonry
+GYP_WALLS,Внутренние стены из гипсокартона,Internal gypsum board walls,İç alçıpan duvarlar,м²,Partitions
+PLASTER_INT,"Внутренние штукатурные работы, включая гаражи",Internal plaster works incl. garages,İç sıva işleri (garajlar dahil),м²,Finishes
+SCREED_INT,Внутренняя стяжка,Internal screed,İç şap,м²,Finishes
+GARAGE_FLOOR_FIN,Финишная отделка пола гаража / стяжка + топпинг,Garage floor finishing / screed + topping,Garaj zemin finişi / şap + topping,м²,Finishes
+FACADE_GLAZ,Фасадное остекление,Facade glazing,Cephe camlama,м²,Facade
+FACADE,Фасад,Facade,Cephe,м²,Facade
+GRANITE_CLAD,Гранитная облицовка,Granite cladding,Granit kaplama,м²,Facade
+ELEVATORS,Лифты,Elevators,Asansörler,шт,Vertical Transport
+MEP_MECH,Механические работы,Mechanical works,Mekanik işler,компл,MEP
+MEP_ELEC,Электротехнические работы,Electrical works,Elektrik işleri,компл,MEP
+BALUST,Балконные балюстрады,Balcony balustrades,Balkon korkulukları,м,Architectural
+BALC_INS_CLAD,Утепление и облицовка балконов,Balcony insulation and cladding,Balkon yalıtımı ve kaplaması,м²,Architectural
+FIN_COMM,Отделочные работы в местах общего пользования,Finishes in common areas,Ortak alan bitişleri,м²,Finishes
+FIN_GARAGE_INT,Внутренние отделочные работы гаражей,Internal finishes in garages,Garaj iç bitişleri,м²,Finishes
+EXT_PIPE,Наружные сети трубопроводов и люки,External pipeline networks and manholes,Dış boru hatları ve rögarlar,м,External Networks
+EXT_CABLE,Внешняя прокладка кабелей,External cable laying,Harici kablo döşeme,м,External Networks
+ROADS_PATHS,Дороги и дорожки,Roads and walkways,Yol ve yaya yolları,м²,External Works
+STREET_LIGHT,Уличное освещение,Street lighting,Cadde aydınlatması,м²,External Works
+LAND_PLAY,Ландшафтный дизайн и игровые площадки,Landscaping and playgrounds,Peyzaj ve çocuk oyun alanları,м²,Landscaping
+LOGISTICS_CLEAN,Горизонтальная транспортировка + уборка,Horizontal transportation + cleaning,Yatay taşıma + temizlik,компл,Logistics
